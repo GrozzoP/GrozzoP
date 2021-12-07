@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GrozzoP
+- 👀 I’m interested in programmation, business, economics, and content creation.
+- 🌱 I’m currently learning Python and other things related with the programming world.
